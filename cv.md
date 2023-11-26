@@ -16,6 +16,12 @@
     * JavaScript
     * Git
 
+* LANGUAGE
+    * English B2
+    * Ukrainian C2
+    * Russian C2
+    * Polish A2
+
 
     ### ABOUT ME
 
@@ -39,6 +45,13 @@
     }
     ```
 
+I'm currently in the process of learning in RSschool and don't have commercial programming experience, I am dedicated to continuous learning and skill development to contribute effectively in professional settings.
+
+### EDUCATION
+
+**Ukrainian State University of Railway Transport**
+
+Master of Science in Railway Transport and Civil Engineering
 
 
 
